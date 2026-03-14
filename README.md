@@ -1,3 +1,27 @@
+Ecoyaan Checkout Flow Assignment
+
+Tech Stack
+Next.js
+React
+Tailwind CSS
+Context API
+
+Features
+Server-side rendering
+Mock API using Next.js API routes
+Cart page with order summary
+Shipping address form with validation
+Payment confirmation page
+Order success page
+
+Run locally
+
+npm install
+npm run dev
+
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
